@@ -1,0 +1,1 @@
+select distinct * from city where id='1661';
